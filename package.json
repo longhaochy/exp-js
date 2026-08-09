@@ -1,5 +1,8 @@
 {
-  "name": "vps-proxy",
+  "name": "pivilage-proxy",
   "version": "1.0.0",
-  "private": true
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
